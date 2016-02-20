@@ -1,0 +1,5 @@
+c:\users\james davis\documents\visual studio 2013\Projects\FloorPlan\IPVRTour.DB\bin\Release\IPVRTour.DB.dacpac
+c:\users\james davis\documents\visual studio 2013\Projects\FloorPlan\IPVRTour.DB\bin\Release\IPVRTour.DB.dll
+c:\users\james davis\documents\visual studio 2013\Projects\FloorPlan\IPVRTour.DB\bin\Release\IPVRTour.DB.pdb
+c:\users\james davis\documents\visual studio 2013\Projects\FloorPlan\IPVRTour.DB\obj\Release\IPVRTour.DB.dll
+c:\users\james davis\documents\visual studio 2013\Projects\FloorPlan\IPVRTour.DB\obj\Release\IPVRTour.DB.pdb
